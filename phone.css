@@ -1,0 +1,35 @@
+#services{
+    flex-direction: column;
+}
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 10px 7px;
+    padding-bottom: 8px;
+}
+#home{
+    height: 730px;
+    padding: 3px 28px;
+    /* flex-direction: column; */
+}
+#home::before{
+    height: 750px;
+}
+#home p{
+    font-size: 10px;
+}
+.h-primary{
+    font-size: 26px;
+}
+#contact-box form{
+    width: 80%;
+}
+#services .box{
+    padding: 14px;
+    margin: 2px 15px;
+    border-radius: 28px;
+    
+    
+}
